@@ -1,6 +1,6 @@
 # ZBIF
 
-Mount the ISO and execute the `Run.CC` file.
+Mount the ISO and execute the `Run.ZC` file.
 
 ![](/screenshots/screenshot0.png)
 
